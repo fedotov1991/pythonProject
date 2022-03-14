@@ -22,6 +22,8 @@ class Example(Frame):
 
        self.initUI()
 
+    def (("dzie dobry"
+         "prosze podacz haslo"))
 
    def initUI(self):
 
